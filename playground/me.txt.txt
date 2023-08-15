@@ -1,5 +1,0 @@
-{{#user}
-Name: Shivangi Mishra
-Skills: HTML, CSS, JS, React.js,Python, Django, Mongodb,Bootstrap,Mysql
-Email: shivangim838@gmail.com
-{{/user}}
